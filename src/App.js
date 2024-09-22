@@ -1,0 +1,13 @@
+import logo from './logo.svg';
+import './App.css';
+import MarketingPage from './MarketingPage';
+
+function App() {
+  return (
+    <div className="App">
+      <MarketingPage />
+    </div>
+  );
+}
+
+export default App;
